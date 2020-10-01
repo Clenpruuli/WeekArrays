@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.exe
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.deps.json
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.runtimeconfig.json
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.dll
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\bin\Debug\netcoreapp3.1\WeeksArrays.pdb
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.dll
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.pdb
+C:\Users\opilane\source\repos\WeeksArrays\WeeksArrays\obj\Debug\netcoreapp3.1\WeeksArrays.genruntimeconfig.cache
